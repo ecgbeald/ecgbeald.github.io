@@ -15,34 +15,27 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Computing Undergraduate
+role: Computing Undergraduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Imperial College
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hi! My interests currently includes distributed systems, cloud computing, networking and cyber security.
+bio: Hi! My interests currently include distributed systems, cloud computing, networking and cyber security.
 
 # Interests to show in About widget
 interests:
   - DevOps
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Security
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MEng in Computing
+      institution: Imperial College, London
+      year: 2021
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
