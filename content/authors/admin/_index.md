@@ -22,8 +22,7 @@ organizations:
   - name: Imperial College
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
-Hi! My interests currently includes distributed systems, cloud computing, networking and cyber security.
+bio: Hi! My interests currently includes distributed systems, cloud computing, networking and cyber security.
 
 # Interests to show in About widget
 interests:
