@@ -28,7 +28,8 @@ bio: Hi! My interests currently include distributed systems, cloud computing, ne
 interests:
   - DevOps
   - Artificial Intelligence
-  - Security
+  - Information Security
+  - Software Development
 
 # Education to show in About widget
 education:
@@ -42,9 +43,9 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: C++
         description: ''
-        percent: 80
+        percent: 70
         icon: python
         icon_pack: fab
       - name: Data Science
@@ -111,5 +112,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I'm a 3rd Year student who has interests in networking, network security, distributed systems and cloud computing. 
 {style="text-align: justify;"}
