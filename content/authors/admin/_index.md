@@ -45,38 +45,38 @@ skills:
     items:
       - name: C++
         description: ''
+        percent: 60
+        icon: cplusplus
+        icon_pack: devicon
+      - name: Java
+        description: ''
         percent: 70
-        icon: python
-        icon_pack: fab
-      - name: Data Science
+        icon: java
+        icon_pack: devicon
+      - name: Docker
         description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
+        percent: 50
+        icon: docker
+        icon_pack: devicon
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Golang
         description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
+        percent: 30
+        icon: go
+        icon_pack: devicon
+      - name: Linux
         description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+        percent: 50
+        icon: linux
+        icon_pack: devicon
+      - name: Windows Server
         description: ''
         percent: 80
-        icon: camera-retro
-        icon_pack: fas
+        icon: windows8
+        icon_pack: devicon
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
