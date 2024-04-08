@@ -34,7 +34,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MEng in Computing
+    - course: MEng Computing
       institution: Imperial College, London
       year: 2021
 
@@ -58,7 +58,7 @@ skills:
         percent: 50
         icon: docker
         icon_pack: devicon
-  - name: Hobbies
+  - name: 
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
